@@ -1,6 +1,13 @@
 {
-  "licenze_revocate": [
-    "",
-    "LIC-2026-3CA651CA"
-  ]
+  "payload": {
+    "app_id": "ASL-CARTELLINI-2026",
+    "generated_at": "2026-07-20T20:11:31Z",
+    "revoked_serials": [
+      "LIC-2026-3CA651CA"
+    ],
+    "minimum_issued_at_by_machine": {
+      "97067-A331D-0631B-E2BAF-2D601": "2026-07-20T20:03:34"
+    }
+  },
+  "signature": "EL958lKWX7NE7+bsdWiNHtJ7Z/5b58mZA6p1AmRNRhLM476G3ZeFyGeBhQZLHT7Kn5Xogipz5ZuHOPPkxA2sDg=="
 }
