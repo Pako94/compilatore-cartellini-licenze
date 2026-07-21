@@ -1,0 +1,9 @@
+{
+  "version": "5.6.7",
+  "download_url": "https://github.com/Pako94/compilatore-cartellini-licenze/releases/download/v5.6.7/Compilatore_Cartellini_ASL_v5.6.7.zip",
+  "sha256": "7de312c37740e70c1cfaef58afb1a83f5ee9121c7ee39f7cb8687822c71c418e",
+  "mandatory": true,
+  "notes": [
+    "Miglioramenti e correzioni"
+  ]
+}
